@@ -1,2 +1,4 @@
 # toDomy
-веб-сервис и набор программного обеспечения для управления задачами. 
+web service and task management software suite.
+
+ 
